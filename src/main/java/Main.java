@@ -3,8 +3,8 @@ public class Main {
         System.out.println("Hello world");
     }
 
-    public static int add(int a, int b)
+    public static int add(int a, int b, int c)
     {
-        return a * b;
+        return a + b + c;
     }
 }
